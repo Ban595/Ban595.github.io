@@ -1,0 +1,7 @@
+body{
+    background-color: rgb(0, 255, 191);
+    background-image: linear-gradient(to top left, powderblue, pink);
+}
+p{
+    color: rgb(17, 0, 255);
+}
